@@ -1,0 +1,12 @@
+Stage 1 completion time: 6.53 done by /usr/bin/python3 /Users/alexrusu/CCC/amitgame.py
+Stage 1 completion time: 12.47 done by alex
+Stage 1 completion time: 6.1 done by alex
+Stage 1 completion time: 6.45 done by alex
+Stage 1 completion time: 4.99 done by alex
+Stage 1 completion time: 5.46 done by alex
+Stage 1 completion time: 5.5 done by alex
+Stage 1 completion time: 6.14 done by alex
+Stage 1 completion time: 5.74 done by alex
+Stage 1 completion time: 4.07 done by alex
+Stage 1 completion time: 3.43 done by alex
+Stage 1 completion time: 11.56 done by alex
