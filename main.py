@@ -108,9 +108,10 @@ def menu(stdscr):
        
         if killcount == len(enemy):
             enemycount += 3
-            f = open("scores.txt", "a")
-            f.write(f"Stage {enemycount // 3-1} completion time: {time} done by {name}\n")
-            f.close()
+            if enemycount != 3:
+                f = open("scores.txt", "a")
+                f.write(f"Stage {enemycount // 3-1} completion time: {time} done by {name}\n")
+                f.close()
             for i in range(enemycount):
                 if cy < HEIGHT // 2:
                     enemy.append(swordenemy(random.randint(3,WIDTH-3),random.randint(HEIGHT//2, HEIGHT-1)))
